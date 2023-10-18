@@ -3,14 +3,14 @@
 
 ## Module1
 ### Intro_Channel_Coding
-### Syndrome_decoding
+### Syndrome_Decoding
 ### Maximum_Likelihood_Decoding
 ### Support_Vector_Machine
 ### Deep_Learning
 ### MiniProject
 ---
 ## Module2
-### Deep learning Techniques for CSI based Indoor Wireless Sensing
+### Classification DNN
 ### Localization with AI method (Convolutional Neural Network)
 ### Generative Adversarial Network
 ### AutoEncoder Generative Adversarial Network (AE-GAN)
